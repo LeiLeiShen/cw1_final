@@ -21,7 +21,7 @@ This system provides comprehensive course management functions.
 -- main.py
 -- user.py
 -- utils.py
--- readme.md
+-- Readme.md
 ```
 
 ### Requirements:
